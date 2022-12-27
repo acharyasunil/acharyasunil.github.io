@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - My Title</title>
+        <title>All Posts - sunilacharya.me</title>
         <link>https://sunilacharya.me/posts/</link>
-        <description>All Posts | My Title</description>
+        <description>All Posts | sunilacharya.me</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 27 Dec 2022 19:02:33 &#43;0530</lastBuildDate><atom:link href="https://sunilacharya.me/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Second_post</title>
     <link>https://sunilacharya.me/posts/2022/second_post/</link>
