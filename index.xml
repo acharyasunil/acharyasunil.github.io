@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My Title</title>
+        <link>https://sunilacharya.me/</link>
+        <description>HG Theme</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 27 Dec 2022 19:02:33 &#43;0530</lastBuildDate>
+            <atom:link href="https://sunilacharya.me/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Second_post</title>
+    <link>https://sunilacharya.me/posts/2022/second_post/</link>
+    <pubDate>Tue, 27 Dec 2022 19:02:33 &#43;0530</pubDate>
+    <author>sunilacharya</author>
+    <guid>https://sunilacharya.me/posts/2022/second_post/</guid>
+    <description><![CDATA[asedaseecfwv wef wefg wef]]></description>
+</item>
+<item>
+    <title>My First Post</title>
+    <link>https://sunilacharya.me/posts/2022/first_post/</link>
+    <pubDate>Tue, 27 Dec 2022 11:26:51 &#43;0530</pubDate>
+    <author>Sunil Acharya</author>
+    <guid>https://sunilacharya.me/posts/2022/first_post/</guid>
+    <description><![CDATA[This article shows the basic Markdown syntax and format.]]></description>
+</item>
+</channel>
+</rss>
